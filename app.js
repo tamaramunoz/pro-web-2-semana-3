@@ -1,6 +1,6 @@
 let carrito = [];
 
-// selección de elementos del DOM esenciales
+// selección de elementos del DOM
 const searchInput = document.getElementById("product-search");
 const searchButton = document.getElementById("search-btn");
 const clearButton = document.getElementById("clear-btn");

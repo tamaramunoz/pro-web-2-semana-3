@@ -43,7 +43,7 @@ class Product {
   }
 }
 
-// stocktaking inicial de la tienda
+// inventario inicial de la tienda
 const stocktaking = [
   new Product(1, "Nintendo Switch 2", 539990, 10, "Consolas", "nintendo.jpeg"),
   new Product(2, "PlayStation 5 Slim ", 569990, 10, "Consolas", "play.png"),
